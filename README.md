@@ -6,7 +6,7 @@
 - IMVU has had this same bug exist since they started using there http://userimages-akm.imvu.com
 
 ### What does this exploit do?
-- This exploit allows a attacker to gain access to _any_ product on IMVUs CDN, and by gain access I mean they can download the contents of the product and simply recreate the CHKN (Fancy Zip File)quite easily.
+- This exploit allows a attacker to gain access to _any_ product on IMVUs CDN, and by gain access I mean they can download the contents of the product and simply recreate the CHKN (Fancy Zip File) quite easily.
 
 ### Why hasn't this been patched by IMVU Int yet?
 - IMVU is fully aware this bug has existed for years in there system things like IMVU T3DE and other have completely exploited this bug to allow people to steal meshes and textures form creators.
